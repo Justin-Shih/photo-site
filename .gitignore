@@ -1,0 +1,10 @@
+# OS/editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Local temporary files
+tmp/
+logs/
+
+# Keep GitHub Pages files under docs/ tracked.
