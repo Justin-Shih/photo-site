@@ -2,6 +2,8 @@
 
 This repository is the stable GitHub Pages home for photography pages and public photo assets.
 
+Status: **CANONICAL ACTIVE PUBLISHING TARGET**. All new photography events belong here.
+
 Each photo event or shoot is published into its own folder under `docs/`, so future photo sets do not overwrite the root photo index.
 
 ## Current Public Structure
@@ -15,19 +17,15 @@ docs/
     *_blog.jpg
 ```
 
-## Source Project
+## Source Workflow
 
-The working content project is:
+The private source and automation workspace is maintained separately from
+this public publishing repository.
 
-```text
-C:\Justin\Codex\projects\攝影拍照blog
-```
+The first published assets were historically migrated from the archived
+`photo-blog-assets` repository.
 
-Current source staging came from:
-
-```text
-C:\Justin\Codex\projects\攝影拍照blog\github-pages-assets\docs
-```
+Do not publish new events back to that legacy repository.
 
 ## GitHub Pages Setup
 
